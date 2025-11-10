@@ -73,6 +73,7 @@
 
 
 ### 🏆 Highlighted Projects
+- **[MikaForge](https://github.com/Zer0SuperNova/MikaForge)** - Plugine Engine for CurseForge
 - **[SeptionLang](https://github.com/Zer0SuperNova/SeptionLang)** - Stack-based VM & interpreter from scratch
 - **[JigglyGif](https://github.com/Zer0SuperNova/JigglyGif)** - Pure Node.js GIF frame extractor (binary parsing)
 
