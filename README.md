@@ -6,6 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=Zer0SuperNova&label=Profile%20views&color=0e75b6&style=flat" alt="zer0thago" />
 </p>
 
+### 🏆 Highlighted Projects
+- **[MikaForge](https://github.com/Zer0SuperNova/MikaForge)** - Plugine Engine for CurseForge
+- **[SeptionLang](https://github.com/Zer0SuperNova/SeptionLang)** - Stack-based VM & interpreter from scratch
+- **[JigglyGif](https://github.com/Zer0SuperNova/JigglyGif)** - Pure Node.js GIF frame extractor (binary parsing)
+
 ### 🎯 Currently Working On
 - **CurseForge Plugin Engine** - Vencord on Steroids
 - **Custom Anti-Bot System** - Building proprietary CAPTCHA technology
@@ -70,12 +75,6 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-
-### 🏆 Highlighted Projects
-- **[MikaForge](https://github.com/Zer0SuperNova/MikaForge)** - Plugine Engine for CurseForge
-- **[SeptionLang](https://github.com/Zer0SuperNova/SeptionLang)** - Stack-based VM & interpreter from scratch
-- **[JigglyGif](https://github.com/Zer0SuperNova/JigglyGif)** - Pure Node.js GIF frame extractor (binary parsing)
 
 ### 📊 GitHub Stats
 
