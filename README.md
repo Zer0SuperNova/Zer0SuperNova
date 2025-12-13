@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Zer0</h1>
 <h3 align="center">Security Researcher | Backend Engineer | Low-Level Enthusiast</h3>
-<h4 align="center">17 | Germany 🇩🇪 | Building since age 7</h4>
+<h4 align="center">Germany 🇩🇪 | Building since age 7</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zer0SuperNova&label=Profile%20views&color=0e75b6&style=flat" alt="zer0thago" />
