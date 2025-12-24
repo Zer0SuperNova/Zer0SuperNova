@@ -11,7 +11,7 @@
 - **[SeptionLang](https://github.com/Zer0SuperNova/SeptionLang)** - Stack-based VM & interpreter from scratch
 - **[JigglyGif](https://github.com/Zer0SuperNova/JigglyGif)** - Pure Node.js GIF frame extractor (binary parsing)
 
-### 🎯 Currently Working On
+### Currently Working On
 - **CurseForge Plugin Engine** - Vencord on Steroids
 - **Custom Anti-Bot System** - Building proprietary CAPTCHA technology
 - **Reverse Engineering Projects** - Analyzing protection systems & binary formats
