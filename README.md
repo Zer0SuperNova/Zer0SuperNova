@@ -6,6 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=Zer0SuperNova&label=Profile%20views&color=0e75b6&style=flat" alt="zer0thago" />
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@cb8331e5-9769-4b07-afa6-dc603c055934">
+    <img src="https://wakatime.com/badge/user/cb8331e5-9769-4b07-afa6-dc603c055934.svg?style=for-the-badge" alt="Wakatime Badge">
+  </a>
+</p>
+
+
 ### 🏆 Highlighted Projects
 - **[MikaForge](https://github.com/Zer0SuperNova/MikaForge)** - Plugine Engine for CurseForge
 - **[SeptionLang](https://github.com/Zer0SuperNova/SeptionLang)** - Stack-based VM & interpreter from scratch
