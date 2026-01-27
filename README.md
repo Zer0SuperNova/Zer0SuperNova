@@ -6,11 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=Zer0SuperNova&label=Profile%20views&color=0e75b6&style=flat" alt="zer0thago" />
 </p>
 
-<p align="center">
+<div align="center">
+  <h5>Hours Since January 27th 2026</h5>
   <a href="https://wakatime.com/@cb8331e5-9769-4b07-afa6-dc603c055934">
     <img src="https://wakatime.com/badge/user/cb8331e5-9769-4b07-afa6-dc603c055934.svg?style=for-the-badge" alt="Wakatime Badge">
   </a>
-</p>
+</div>
 
 
 ### 🏆 Highlighted Projects
