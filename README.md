@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hey, I'm Zer0</h1>
-<h3 align="center">Security Researcher | Backend Engineer | Low-Level Enthusiast</h3>
+<h3 align="center">Security Researcher | Backend Engineer | Cloud Enthusiast</h3>
 <h4 align="center">Germany 🇩🇪 | Building since age 7</h4>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zer0SuperNova&label=Profile%20views&color=0e75b6&style=flat" alt="zer0thago" />
@@ -16,24 +17,24 @@
 
 ### 🏆 Highlighted Projects
 - **[MikaForge](https://github.com/Zer0SuperNova/MikaForge)** - Plugine Engine for CurseForge
-- **[SeptionLang](https://github.com/Zer0SuperNova/SeptionLang)** - Stack-based VM & interpreter from scratch
-- **[JigglyGif](https://github.com/Zer0SuperNova/JigglyGif)** - Pure Node.js GIF frame extractor (binary parsing)
+- **[Asarion](https://github.com/Zer0SuperNova/Asarion)** - Electron (Asar) apps patcher
+- **AmayCloud** - Cloud based chromium anti detect browser, deploy with one click!
 
 ### Currently Working On
-- **CurseForge Plugin Engine** - Vencord on Steroids
-- **Custom Anti-Bot System** - Building proprietary CAPTCHA technology
-- **Reverse Engineering Projects** - Analyzing protection systems & binary formats
+- **AmayCloud** -  Cloud based chromium anti detect browser, one click deployment and undetected from Cloudflare -> Akamai -> and more!
 # 🛠️ Tech Stack
 
 ## Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ## Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
