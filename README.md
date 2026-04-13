@@ -88,10 +88,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zer0SuperNova&show_icons=true&theme=radical&hide_border=true" alt="Zer0's Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0SuperNova&theme=radical&hide_border=true" alt="Zer0's Streak" />
 </p>
 
