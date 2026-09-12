@@ -22,7 +22,7 @@
 
 ### Currently Working On
 - **AmayCloud** -  Cloud based chromium anti detect browser, one click deployment and undetected from Cloudflare -> Akamai -> and more!
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
