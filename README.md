@@ -15,14 +15,13 @@
 </div>
 
 
-### 🏆 Highlighted Projects
+### Highlighted Projects
 - **[MikaForge](https://github.com/Zer0SuperNova/MikaForge)** - Plugine Engine for CurseForge
 - **[Asarion](https://github.com/Zer0SuperNova/Asarion)** - Electron (Asar) apps patcher
 - **AmayCloud** - Cloud based chromium anti detect browser, deploy with one click!
 
 ### Currently Working On
-- **AmayCloud** -  Cloud based chromium anti detect browser, one click deployment and undetected from Cloudflare -> Akamai -> and more!
-# Tech Stack
+- none D:
 
 ## Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -91,10 +90,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0SuperNova&theme=radical&hide_border=true" alt="Zer0's Streak" />
 </p>
 
-### 🎓 Background
-Started with **electronics at age 7** (building circuits, soldering radios). Transitioned to software, now specializing in **security research** and **low-level systems**. Self-taught in reverse engineering, binary analysis, and infrastructure.
+### Background
+Started building circuits at age 7, long before I touched a line of code. These days I build backend systems and cloud infrastructure, with a bit of reverse engineering on the side when something interesting catches my eye.
 
-### 📫 Let's Connect
+### Let's Connect
 - **Discord**: `zer0supernova`
 - **GitHub**: You're already here!
 
@@ -103,3 +102,9 @@ Started with **electronics at age 7** (building circuits, soldering radios). Tra
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
+
+<p align="center">
+  <i>"The bird is okay even though he doesn't understand the world. You're that bird looking at the monitor, and you're thinking to yourself, 'I can figure this out.' Maybe you have some bird ideas. Maybe that's the best you can do." - Terry A. Davis (God of Programming)
+</i>
+</p>
+
