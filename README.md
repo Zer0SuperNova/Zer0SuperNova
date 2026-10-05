@@ -1,3 +1,4 @@
+<img width="2277" height="898" alt="steflogo" src="https://github.com/user-attachments/assets/72af6852-57d2-4324-b3d0-8b06457f7847" />
 <h1 align="center">👋 Hey, I'm Zer0</h1>
 <h3 align="center">Security Researcher | Backend Engineer | Cloud Enthusiast</h3>
 <h4 align="center">Germany 🇩🇪 | Building since age 7</h4>
